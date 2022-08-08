@@ -1,5 +1,4 @@
 ﻿using BepInEx;
-using System;
 using TimberbornAPI;
 using TimberbornAPI.Common;
 
@@ -11,7 +10,7 @@ namespace Hytone.Timberborn.Mods.CustomTopBar
     {
         public const string PluginId = "hytone.plugins.customtopbar";
         public const string PluginName = "FoodMaterialsTopBar";
-        public const string PluginVersion = "0.0.1";
+        public const string PluginVersion = "1.0.0";
 
         public void Awake()
         {

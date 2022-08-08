@@ -2,6 +2,6 @@
   "Id": "FoodMaterials",
   "Order": 2,
   "DisplayNameLocKey": "TopBar.FoodMaterials",
-  "Icon": "CustomTopBarPlugin/topbar.bundle/FoodMaterials",
+  "Icon": "FoodMaterialsTopBar/topbar.bundle/FoodMaterials",
   "SingleResourceGroup": false
 }
