@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/Hytone.Timberborn.Mods.CustomTopBar/package/README.md
+/Hytone.Timberborn.Mods.CustomTopBar/package/plugins/Hytone.Timberborn.Mods.CustomTopBar.dll
