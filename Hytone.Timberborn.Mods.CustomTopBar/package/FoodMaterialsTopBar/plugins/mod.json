@@ -1,0 +1,15 @@
+﻿{
+  "Name": "FoodMaterialsTopBar",
+  "Version": "2.0.0",
+  "UniqueId": "hytone.plugins.customtopbar",
+  "MinimumApiVersion": "0.5.0",
+  "MinimumGameVersion": "0.2.8",
+  "Assets": [
+    {
+      "Prefix": "FoodMaterialsTopBar",
+      "Scenes": [
+        "InGame"
+      ]
+    }
+  ]
+}

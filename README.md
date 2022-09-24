@@ -16,5 +16,8 @@ and adding the dll to your bepinex plugins folder. This plugin is dependent on t
 
 # Changelog
 
+# v2.0.0 - 23.9.2022
+- Changed to work with TimberAPI v0.5
+
 # v1.0.0 - 8.8.2022
 - Initial release for Timberborn v0.2.3 (lates experimental at time of publish)
